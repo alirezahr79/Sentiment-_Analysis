@@ -1,4 +1,4 @@
-# 🎭 Fine-Tuning RoBERTa with Adapters for Sentiment Analysis
+# 🎭 Fine-Tuning RoBERTa with Adapters for Sentiment Analysis of IMDB Reviews
 
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
